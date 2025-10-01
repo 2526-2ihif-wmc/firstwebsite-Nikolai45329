@@ -9,3 +9,23 @@ h1{
     background-color: darkblue;
 }
 
+a{
+    font-size: 2rem;
+
+}
+
+a:visited{
+    font-weight: bold;
+    color: hotpink;
+}
+p{
+    padding: 40px;
+    padding-top: 10px ;
+    margin: 40px ;
+    border: 1px solid black;
+}
+
+span{
+    margin: 40px;
+    padding: 10px;
+}
